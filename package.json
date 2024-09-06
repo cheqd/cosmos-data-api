@@ -21,14 +21,14 @@
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20240512.0",
     "@types/node": "^20.12.12",
-    "@typescript-eslint/eslint-plugin": "^7.9.0",
-    "@typescript-eslint/parser": "^7.9.0",
+    "@typescript-eslint/eslint-plugin": "^8.3.0",
+    "@typescript-eslint/parser": "^8.3.0",
     "eslint": "^8.57.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-config-typescript": "^3.0.0",
     "prettier": "^3.2.5",
     "typescript": "^5.4.5",
-    "wrangler": "^3.56.0"
+    "wrangler": "^3.63.0"
   },
   "engines": {
     "node": ">=20.0.0"
